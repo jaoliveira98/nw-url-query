@@ -21,20 +21,11 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   // Load saved parameters
   const loadSavedParameters = () => {
-    const domainEnabled = localStorage.getItem("domainEnabled") === "true";
     const domainSelect = localStorage.getItem("domainSelect");
-    const taboolaEnabled = localStorage.getItem("taboolaEnabled") === "true";
     const taboolaSelect = localStorage.getItem("taboolaSelect");
-    const googleConsoleEnabled =
-      localStorage.getItem("googleConsoleEnabled") === "true";
 
-    document.getElementById("domainEnabled").checked = domainEnabled;
-    document.getElementById("domainSelect").value =
-      domainSelect || "Select a domain";
-    document.getElementById("taboolaEnabled").checked = taboolaEnabled;
-    document.getElementById("taboolaSelect").value =
-      taboolaSelect || "Select a domain";
-    document.getElementById("googleConsole").checked = googleConsoleEnabled;
+    document.getElementById("domainSelect").value = domainSelect || "";
+    document.getElementById("taboolaSelect").value = taboolaSelect || "";
   };
 
   loadSavedParameters();
@@ -53,11 +44,8 @@ document.addEventListener("DOMContentLoaded", async () => {
       document.getElementById("googleConsole").checked;
 
     // Save parameters to localStorage
-    localStorage.setItem("domainEnabled", domainEnabled);
     localStorage.setItem("domainSelect", domainSelect);
-    localStorage.setItem("taboolaEnabled", taboolaEnabled);
     localStorage.setItem("taboolaSelect", taboolaSelect);
-    localStorage.setItem("googleConsoleEnabled", googleConsoleEnabled);
 
     // Get the current tab
     const [tab] = await chrome.tabs.query({
