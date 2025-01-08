@@ -13,7 +13,7 @@ Clone this repository or download and extract the ZIP file
 ### 2. Open Chrome Extensions Page
 1. Open Google Chrome
 2. Click the three dots menu (⋮) in the top-right corner
-3. Go to `More Tools` > `Extensions`
+3. Go to `Extensions` > `Manage Extensions`
 4. Alternatively, type `chrome://extensions/` in your address bar
 
 ### 3. Enable Developer Mode
