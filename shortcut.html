@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>URL Parameter Manager</title>
+    <link rel="stylesheet" href="./styles/main.css" />
+  </head>
+  <body>
+    <div class="container">
+      <!-- DOMAIN -->
+      <div class="parameter">
+        <label class="toggle-switch">
+          <input type="checkbox" id="domainEnabled" />
+          <span class="toggle-slider"></span>
+        </label>
+        <label for="domainEnabled">Domain</label>
+        <select id="domainSelect"></select>
+      </div>
+      <!-- TABOOLA -->
+      <div class="parameter">
+        <label class="toggle-switch">
+          <input type="checkbox" id="taboolaEnabled" />
+          <span class="toggle-slider"></span>
+        </label>
+        <label for="taboolaEnabled">Taboola</label>
+        <select id="taboolaSelect"></select>
+      </div>
+      <!-- GOOGLE ADS -->
+      <div class="parameter">
+        <label class="toggle-switch">
+          <input type="checkbox" id="googleConsole" />
+          <span class="toggle-slider"></span>
+        </label>
+        <label for="googleConsole">Google Console</label>
+      </div>
+
+      <button id="applyButton">Apply Parameters</button>
+    </div>
+
+    <script src="./script/popup.js"></script>
+  </body>
+</html>

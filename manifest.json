@@ -1,0 +1,11 @@
+{
+  "name": "NW | URL Manager",
+  "description": "Easily add query parameters to the URL of the current URL. Enable or disable specific parameters such as domain, Taboola, and Google Console.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "shortcut.html",
+    "default_icon": "icon.png"
+  }
+}

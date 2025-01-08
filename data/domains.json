@@ -1,0 +1,276 @@
+{
+  "domains": [
+    {
+      "name": "3 Added Minutes",
+      "value": "3addedminutes.com"
+    },
+    {
+      "name": "AngusWorld",
+      "value": "angusworld.com"
+    },
+    {
+      "name": "Banbury Guardian",
+      "value": "banburyguardian.co.uk"
+    },
+    {
+      "name": "Bedford Today",
+      "value": "bedfordtoday.co.uk"
+    },
+    {
+      "name": "Belfast News Letter",
+      "value": "newsletter.co.uk"
+    },
+    {
+      "name": "Biggleswade Today",
+      "value": "biggleswadetoday.co.uk"
+    },
+    {
+      "name": "BirminghamWorld",
+      "value": "birminghamworld.com"
+    },
+    {
+      "name": "Blackpool Gazette",
+      "value": "blackpoolgazette.co.uk"
+    },
+    {
+      "name": "BristolWorld",
+      "value": "bristolworld.com"
+    },
+    {
+      "name": "Bucks Herald",
+      "value": "bucksherald.co.uk"
+    },
+    {
+      "name": "Burnley Express",
+      "value": "burnleyexpress.net"
+    },
+    {
+      "name": "Buxton Advertiser",
+      "value": "buxtonadvertiser.co.uk"
+    },
+    {
+      "name": "Daventry Express",
+      "value": "daventryexpress.co.uk"
+    },
+    {
+      "name": "Derbyshire Times",
+      "value": "derbyshiretimes.co.uk"
+    },
+    {
+      "name": "DerbyWorld",
+      "value": "derbyworld.com"
+    },
+    {
+      "name": "Derry Journal",
+      "value": "derryjournal.com"
+    },
+    {
+      "name": "Dewsbury Reporter",
+      "value": "dewsburyreporter.co.uk"
+    },
+    {
+      "name": "Doncaster Free Press",
+      "value": "doncasterfreepress.co.uk"
+    },
+    {
+      "name": "Edinburgh News",
+      "value": "edinburghnews.scotsman.com"
+    },
+    {
+      "name": "Falkirk Herald",
+      "value": "falkirkherald.co.uk"
+    },
+    {
+      "name": "Farming Life",
+      "value": "farminglife.com"
+    },
+    {
+      "name": "Fife Today",
+      "value": "fifetoday.co.uk"
+    },
+    {
+      "name": "GlasgowWorld",
+      "value": "glasgowworld.com"
+    },
+    {
+      "name": "Halifax Courier",
+      "value": "halifaxcourier.co.uk"
+    },
+    {
+      "name": "Harborough Mail",
+      "value": "harboroughmail.co.uk"
+    },
+    {
+      "name": "Harrogate Advertiser",
+      "value": "harrogateadvertiser.co.uk"
+    },
+    {
+      "name": "Hartlepool Mail",
+      "value": "hartlepoolmail.co.uk"
+    },
+    {
+      "name": "Hemel Today",
+      "value": "hemeltoday.co.uk"
+    },
+    {
+      "name": "Hucknall Dispatch",
+      "value": "hucknalldispatch.co.uk"
+    },
+    {
+      "name": "Lancashire Evening Post",
+      "value": "lep.co.uk"
+    },
+    {
+      "name": "Lancaster Guardian",
+      "value": "lancasterguardian.co.uk"
+    },
+    {
+      "name": "Leighton Buzzard Observer",
+      "value": "leightonbuzzardonline.co.uk"
+    },
+    {
+      "name": "LincolnshireWorld",
+      "value": "lincolnshireworld.com"
+    },
+    {
+      "name": "LiverpoolWorld",
+      "value": "liverpoolworld.com"
+    },
+    {
+      "name": "LondonWorld",
+      "value": "londonworld.com"
+    },
+    {
+      "name": "Luton Today",
+      "value": "lutontoday.co.uk"
+    },
+    {
+      "name": "ManchesterWorld",
+      "value": "manchesterworld.com"
+    },
+    {
+      "name": "Mansfield and Ashfield Chad",
+      "value": "chad.co.uk"
+    },
+    {
+      "name": "Melton Times",
+      "value": "meltontimes.co.uk"
+    },
+    {
+      "name": "Milton Keynes Citizen",
+      "value": "miltonkeynes.co.uk"
+    },
+    {
+      "name": "NationalWorld",
+      "value": "nationalworld.com"
+    },
+    {
+      "name": "NewcastleWorld",
+      "value": "newcastleworld.com"
+    },
+    {
+      "name": "Newry Reporter",
+      "value": "newryreporter.com"
+    },
+    {
+      "name": "Northampton Chronicle and Echo",
+      "value": "northamptonchron.co.uk"
+    },
+    {
+      "name": "Northamptonshire Telegraph",
+      "value": "northantstelegraph.co.uk"
+    },
+    {
+      "name": "NorthernIrelandWorld",
+      "value": "northernirelandworld.com"
+    },
+    {
+      "name": "Northumberland Gazette",
+      "value": "northumberlandgazette.co.uk"
+    },
+    {
+      "name": "NottinghamWorld",
+      "value": "nottinghamworld.com"
+    },
+    {
+      "name": "Peterborough Telegraph",
+      "value": "peterboroughtoday.co.uk"
+    },
+    {
+      "name": "Rotherham Advertiser",
+      "value": "rotherhamadvertiser.co.uk"
+    },
+    {
+      "name": "Shields Gazette",
+      "value": "shieldsgazette.com"
+    },
+    {
+      "name": "Stornoway Gazette",
+      "value": "stornowaygazette.co.uk"
+    },
+    {
+      "name": "Sunderland Echo",
+      "value": "sunderlandecho.com"
+    },
+    {
+      "name": "Surrey World",
+      "value": "surreyworld.com"
+    },
+    {
+      "name": "SussexWorld",
+      "value": "sussexworld.co.uk"
+    },
+    {
+      "name": "The News",
+      "value": "portsmouth.co.uk"
+    },
+    {
+      "name": "The Scarborough News",
+      "value": "thescarboroughnews.co.uk"
+    },
+    {
+      "name": "The Scotsman",
+      "value": "scotsman.com"
+    },
+    {
+      "name": "The Southern Reporter",
+      "value": "thesouthernreporter.co.uk"
+    },
+    {
+      "name": "The Star",
+      "value": "thestar.co.uk"
+    },
+    {
+      "name": "Totally Snookered",
+      "value": "totallysnookered.com"
+    },
+    {
+      "name": "Wakefield Express",
+      "value": "wakefieldexpress.co.uk"
+    },
+    {
+      "name": "WalesWorld",
+      "value": "walesworld.com"
+    },
+    {
+      "name": "WarwickshireWorld",
+      "value": "warwickshireworld.com"
+    },
+    {
+      "name": "Wigan Today",
+      "value": "wigantoday.net"
+    },
+    {
+      "name": "Worksop Guardian",
+      "value": "worksopguardian.co.uk"
+    },
+    {
+      "name": "Yorkshire Evening Post",
+      "value": "yorkshireeveningpost.co.uk"
+    },
+    {
+      "name": "Yorkshire Post",
+      "value": "yorkshirepost.co.uk"
+    }
+  ]
+}
